@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Desarrollo y dictado de Plan anual de capacitación al personal",
+    "description": "Ofrecemos un servicio especializado en el diseño y ejecución de Planes Anuales de Capacitación para tu personal. Asegura el crecimiento y la seguridad laboral de tu equipo con programas adaptados a tus necesidades.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M16.5 11.5285L12 13.574 7.5 11.5285V14.5056L12 16.4341L16.5 14.5056V11.5285ZM18 10.8466L22.06 9 12 4.42627 3 8.51718V15.7501H4.5V10.1649L6 10.8467V15.4947L12 18.0661L18 15.4947V10.8466ZM5.56 9 12 6.07396 18.44 9 12 11.9263 5.56 9ZM3 18V16.5H4.5V18H3Z\"/></svg>"
+  },
+  {
+    "title": "Análisis de Riesgos Personalizado por Puestos de Trabajo",
+    "description": "Protege a tu equipo identificando y gestionando los riesgos específicos en cada puesto de trabajo. Evaluación exhaustiva para ambientes laborales seguros.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M12 2.98828L22.29 21H1.71L12 2.98828ZM4.29 19.5H19.71L12 6.01163 4.29 19.5Z\"/><path d=\"M11.25 15V10.5H12.75V15H11.25Z\"/><path d=\"M11.25 17.25V15.75H12.75V17.25H11.25Z\"/></svg>"
+  },
+  {
+    "title": "Auditorías y Visitas a Obra Especializadas",
+    "description": "Auditorías y visitas a obra para asegurar cumplimiento de normativas de seguridad. Análisis riguroso y recomendaciones efectivas.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M16.06 3H5.25V21H12V19.5H6.75V4.5H15.44L17.25 6.31V13.5H18.75V5.69L16.06 3ZM15.75 9.75H8.25V8.25H15.75V9.75ZM15.75 12.75H8.25V11.25H15.75V12.75ZM12 15.75H8.25V14.25H12V15.75ZM15.06 20.57L19.28 16.28L18.22 15.22L15.06 18.43L13.28 16.63L12.22 17.68L15.06 20.57Z\"/></svg>"
+  },
+  {
+    "title": "Plan de Evacuación y Cumplimiento Legal con Defensa Civil",
+    "description": "Confección de Planes de Evacuación cumpliendo con la Ley 5920. Presentación ante Defensa Civil incluida.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M15 11L18 13\"/><circle cx=\"18\" cy=\"4\" r=\"1\"/><path d=\"M9.5 9.5L9.52 6H14.02L15 6L8 17H4\"/><path d=\"M15 8L12 13L12.5 14L17 7.5L15 6\"/><path d=\"M11 13L16 16.5V21.5\"/></svg>"
+  },
+  {
+    "title": "Estudio de Carga de Fuego y Potencial Extintor",
+    "description": "Análisis detallado de carga de fuego con cálculos de potencial extintor. Informes profesionales.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M14.45 8.49L12.18 3.94L11.45 4.74C7.31 9.26 6 11.96 6 14.25C6 17.42 8.73 19.91 12 19.91C15.27 19.91 18 17.42 18 14.25C18 13.32 17.67 12.31 17.24 11.37C16.8 10.41 16.21 9.44 15.62 8.58L15.11 7.82L14.45 8.49ZM14.05 11.03L14.88 10.19C15.26 10.78 15.6 11.4 15.88 11.99C16.28 12.86 16.5 13.64 16.5 14.25C16.5 15.09 16.22 15.89 15.74 16.56C15.75 16.49 15.75 16.43 15.75 16.37C15.75 15.81 15.52 15.24 15.26 14.76C14.99 14.27 14.64 13.78 14.3 13.35L13.81 12.74L13.48 13.03L12.17 10.82L11.49 11.45C9.14 13.63 8.25 15.05 8.25 16.37C8.25 16.43 8.25 16.49 8.26 16.56C7.78 15.89 7.5 15.09 7.5 14.25C7.5 12.68 8.33 10.53 11.82 6.57L14.05 11.03ZM13.09 15.34L13.59 14.91C13.73 15.1 13.84 15.29 13.94 15.48C14.16 15.88 14.25 16.18 14.25 16.37C14.25 17.12 13.41 18 12 18C10.59 18 9.75 17.12 9.75 16.37C9.75 15.82 10.07 14.95 11.83 13.2L13.09 15.34Z\"/></svg>"
+  },
+  {
+    "title": "Asesoramiento Profesional en Elementos de Protección Personal",
+    "description": "Selección y adquisición de EPPs para cada función. Aseguramos el equipo adecuado para tu personal.",
+    "svg": "<svg fill=\"currentColor\" viewBox=\"0 0 512 512\"> <polygon id=\"XMLID_543_\" points=\"299.982,22 212.018,22 256,110.089 \" ></polygon> <rect height=\"19\" id=\"XMLID_626_\" width=\"128\" x=\"306\" y=\"381\"></rect> <path d=\"M377.52,66.697C375.171,40.665,377.436,16,379.172,2H332.2l-67.29,134.749 c-0.021,0.042-0.031,0.067-0.052,0.109c0.713,1.373,1.141,2.917,1.141,4.571V201h29.85c5.502,0,10.15,4.666,10.15,10.168V221h128 v-59.905C401,149.736,382.09,117.319,377.52,66.697z\" id=\"XMLID_627_\" ></path> <rect height=\"20\" id=\"XMLID_1041_\" width=\"128\" x=\"306\" y=\"241\"></rect> <path d=\"M306,290.869c0,5.502-4.648,10.131-10.15,10.131H266v40h29.85c5.502,0,10.15,4.143,10.15,9.645V361h128 v-80H306V290.869z\" id=\"XMLID_1084_\" ></path> <path d=\"M132.828,2c1.736,14,4.001,38.665,1.651,64.697C129.91,117.319,110,149.736,78,161.095V221h128v-9.832 c0-5.502,4.648-10.168,10.149-10.168H246v-66.381L179.8,2H132.828z\" id=\"XMLID_545_\" ></path> <path d=\"M247.089,136.726l-0.318-0.637c0.117,0.693,0.247,1.031,0.389,0.758 C247.138,136.805,247.11,136.768,247.089,136.726z\" id=\"XMLID_617_\" ></path> <rect height=\"60\" id=\"XMLID_1086_\" width=\"60\" x=\"226\" y=\"221\"></rect> <path d=\"M306,430.346c0,5.502-4.648,9.654-10.15,9.654H266v70h168v-90H306V430.346z\" id=\"XMLID_1087_\" ></path> <rect height=\"20\" id=\"XMLID_1088_\" width=\"128\" x=\"78\" y=\"241\"></rect> <rect height=\"59\" id=\"XMLID_1089_\" width=\"60\" x=\"226\" y=\"361\"></rect> <path d=\"M206,350.645c0-5.502,4.648-9.645,10.149-9.645H246v-40h-29.851c-5.502,0-10.149-4.629-10.149-10.131 V281H78v80h128V350.645z\" id=\"XMLID_1091_\" ></path> <path d=\"M206,430.346V420H78v90h168v-70h-29.851C210.648,440,206,435.848,206,430.346z\" id=\"XMLID_1092_\" ></path> <rect height=\"19\" id=\"XMLID_1093_\" width=\"128\" x=\"78\" y=\"381\"></rect> </svg> "
+  },
+  {
+    "title": "Medición de Iluminación",
+    "description": "Cumplimos con el Protocolo Res. 84/2012. Medición precisa de niveles de iluminación en cada espacio laboral.",
+    "svg": "<svg fill=\"currentColor\" viewBox=\"0 0 100 100\"><path d=\"M47.6,20.1c-9.8,1.1-17.7,8.8-18.5,18.4c-0.6,7,2.5,13.4,7.5,17.5c1.5,1.2,2.4,3,2.4,4.9v0.1c0,2.8,2.3,5.1,5.2,5.1h11.6c2.9,0,5.2-2.3,5.2-5.1v-0.1c0-1.9,0.9-3.7,2.4-4.9C68,52.2,71,46.6,71,40.3C71,28.3,60.3,18.8,47.6,20.1z\"/><path d=\"M59,72H41c-1.1,0-2,0.9-2,2c0,3.3,2.7,6,6,6h10c3.3,0,6-2.7,6-6C61,72.9,60.1,72,59,72z\"/></svg>"
+  },
+  {
+    "title": "Medición de Ruido",
+    "description": "Medición conforme al Protocolo Res. 85/2012. Evaluación de ruido para cumplir normativas laborales.",
+    "svg": "<svg viewBox=\"0 0 100 100\" fill=\"currentColor\"><path d=\"M46,74.3L44.4,73c-1.8-1.2-1.8-3.7-1.8-5v-3.6c0-1-0.9-1.9-1.9-1.9h-7.5c-1,0-1.9,0.9-1.9,1.9V74c0,3.4,2,6,5.1,6h6.2c3.6,0,3.9-2.5,3.9-2.5C46.5,77.5,47.1,75.3,46,74.3z\"/><path d=\"M74,40.1v-17c0-3-3.8-3.9-5.8-1.9L57,31.6c-1.8,1.5-4,2.1-6.3,2.1H31.7C25.1,33.8,20,39.4,20,45.9v0.2c0,6.5,5.1,11.4,11.7,11.4h19.1c2.4,0,4.6,1,6.4,2.5l11,10.7c2,2,5.8,1.2,5.8-1.7V52c3.8,0,6-2.6,6-6C80,42.7,77.7,40.1,74,40.1z\"/></svg>"
+  },
+  {
+    "title": "Medición de Continuidad y Puesta a Tierra",
+    "description": "Mediciones bajo Res. 900/15 para garantizar seguridad eléctrica. Informes técnicos detallados.",
+    "svg": "<svg viewBox=\"0 0 459.1 459.1\" fill=\"currentColor\"><polygon points=\"244.55,238.04 244.55,27.05 214.55,27.05 214.55,238.04 0,238.04 0,268.04 459.1,268.04 459.1,238.04\"/><rect x=\"49.55\" y=\"320.04\" width=\"360\" height=\"30\"/><rect x=\"94.55\" y=\"402.05\" width=\"270\" height=\"30\"/></svg>"
+  },
+  {
+    "title": "Asesoría Integral a Administradores de Edificios",
+    "description": "Relevamientos integrales con propuestas de mejora para seguridad e higiene en edificios.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M21 20h2v2H1v-2h2V3a1 1 0 0 1 1-1h16a1 1 0 0 1 1 1v17zm-2 0V4H5v16h14zM8 11h3v2H8v-2zm0-4h3v2H8V7zm0 8h3v2H8v-2zm5 0h3v2h-3v-2zm0-4h3v2h-3v-2zm0-4h3v2h-3V7z\"/></svg>"
+  },
+  {
+    "title": "Instalación y mantenimiento eléctrico",
+    "description": "Realizamos adecuaciones e instalaciones eléctricas, incluyendo los mantenimientos preventivos y correctivos de tableros eléctricos.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M7 2V13H10V22L17 10H13L17 2H7Z\"/></svg>"
+  },
+  {
+    "title": "Medición y corrección del factor de potencia",
+    "description": "Un buen factor de potencia es esencial para un uso eficiente de la energía eléctrica, evitando pérdidas, sobrecargas y costos adicionales.",
+    "svg": "<svg viewBox=\"0 0 24 24\" fill=\"currentColor\"><path d=\"M16 4H15V2H9V4H8C6.9 4 6 4.9 6 6V20C6 21.1 6.9 22 8 22H16C17.1 22 18 21.1 18 20V6C18 4.9 17.1 4 16 4ZM16 20H8V6H16V20ZM10 8H14V10H10V8ZM10 12H14V14H10V12Z\"/></svg>"
+  }
+]
